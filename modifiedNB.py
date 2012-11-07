@@ -1,7 +1,7 @@
 import re;
 import csv;
 import time;
-import httpagentparser;
+import httpagentparser as http;
 
 
 class modifiedNB():
